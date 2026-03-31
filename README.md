@@ -46,8 +46,10 @@ categories:
 
 
 $$
--=Templates-Collection=- \\
-OxyThe \hat Crack^{@} \\
+-=Templates-Collection=- 
+$$
+$$
+OxyThe \hat Crack^{@} 
 $$
 
 
