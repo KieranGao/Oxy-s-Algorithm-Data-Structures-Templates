@@ -47,7 +47,6 @@ categories:
 
 $$
 -=Templates-Collection=- \\
-By \\
 OxyThe \hat Crack^{@} \\
 $$
 
@@ -90,7 +89,6 @@ $$
 
 
 
-[TOC]
 
 
 
